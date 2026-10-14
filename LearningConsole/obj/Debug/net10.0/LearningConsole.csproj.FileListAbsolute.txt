@@ -1,0 +1,15 @@
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.AssemblyInfoInputs.cache
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.AssemblyInfo.cs
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.csproj.CoreCompileInputs.cache
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.sourcelink.json
+/workspaces/learning/LearningConsole/bin/Debug/net10.0/LearningConsole
+/workspaces/learning/LearningConsole/bin/Debug/net10.0/LearningConsole.deps.json
+/workspaces/learning/LearningConsole/bin/Debug/net10.0/LearningConsole.runtimeconfig.json
+/workspaces/learning/LearningConsole/bin/Debug/net10.0/LearningConsole.dll
+/workspaces/learning/LearningConsole/bin/Debug/net10.0/LearningConsole.pdb
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.dll
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/refint/LearningConsole.dll
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.pdb
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/LearningConsole.genruntimeconfig.cache
+/workspaces/learning/LearningConsole/obj/Debug/net10.0/ref/LearningConsole.dll
