@@ -1,0 +1,9 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+bld/
+
+# Paket CLI
+.paket/
